@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="36271c84-cd75-46e8-a455-a4b97abb0848" name="berryxchange">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
